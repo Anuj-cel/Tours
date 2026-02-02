@@ -1,4 +1,4 @@
-# Airbnb-like Website
+# Tours
 
 ## Overview
 This is a **full-stack web application** similar to Airbnb, allowing users to list, review, and book properties. It is built using **Node.js, Express, MongoDB, and EJS**.
